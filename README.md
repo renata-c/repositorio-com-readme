@@ -9,6 +9,7 @@ Um projeto de teste com um arquivo README 🚀
 - HTML
 - CSS
 - JS
+- React
 
 ## Como utilizar
 
